@@ -1,8 +1,7 @@
-package com.example.todoapp.addtask.data.di
+package com.example.todoapp.addtask.di
 
 import android.content.Context
 import androidx.room.Room
-import com.example.todoapp.addtask.data.TaskDao
 import com.example.todoapp.addtask.data.TodoDatabase
 import dagger.Module
 import dagger.Provides
